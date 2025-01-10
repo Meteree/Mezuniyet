@@ -1,6 +1,6 @@
-Projemin ana fikri: Günlük Aktivite Programı
+Projemin ana fikri: Bir Günlük Aktivite Programı
 
-Detaylar: İnsanların kullanabileceği bir günlük aktivite programı****
+Amacım: İnsanların kullanabileceği bir günlük aktivite programı
 
 Gerekli kütüphaneler:
 -Flask
@@ -8,10 +8,10 @@ Gerekli kütüphaneler:
 -speech_recognition
 
 Projeyi Çalıştırmak İçin talimatlar: 
-1.)Bu Github dosyasını indirin.
-2.)VSCode'da açın.
-3.)Gerekli kütüphaneleri ekleyin.
-4.)Ve linke tıklayın!
+1.Adım)Bu Github dosyasını indirin.
+2.Adım)VSCode'da açın.
+3.Adım)Gerekli kütüphaneleri ekleyin.
+4.Adım)Ve linke tıklayın!
 
 Nasıl Kullanılacağı ile ilgili gif burada!
 
